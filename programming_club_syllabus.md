@@ -4,17 +4,18 @@ Programming club
 Syllabus
 --------
 
-Section 0: Python and the Programmer
+Section 0: *Python and the Programmer*
 
 0. The shell - command, flags, arguments
+0. Git and GitHub
 1. Installing the interpreter
 2. Invoking the interpreter
-3. Choose your weapon
+3. Choose your weapon (editors/IDE's)
 4. Help and the Python Doc
 5. Modules
 6. Why Python? Vs Perl, Java, C, or special-purpose languages
 
-Section 1: Data types
+Section 1: *Data types*
 
 1. Numeric types - integer, float
 2. Strings and string-likes
@@ -22,14 +23,14 @@ Section 1: Data types
 4. Exceptions and Errors - making them by accident, raising them on purpose
 5. Namespaces
 
-Section 2: Functions
+Section 2: *Functions*
 
 1. Functions relate input to output
 2. Invoking ("calling") functions
 3. Writing ("defining") your own functions
 4. Why write a function? (Software design 1)
 
-Section 3: Scripting
+Section 3: *Scripting*
 
 1. The shell environment, revisited
 2. Moving from the shell environment to the Python runtime
@@ -37,7 +38,7 @@ Section 3: Scripting
 4. Control flow - making decisions, being logical
 5. Working with files - text and otherwise (the os module.
 
-Section 4: Objects
+Section 4: *Objects*
 
 1. You've been using objects this whole time
 2. Objects represent complex data
@@ -46,7 +47,7 @@ Section 4: Objects
 5. Defining a class; creating an object
 6. Why use objects? (Software design 2)
 
-Section 5: Object-Oriented Software Design Patterns
+Section 5: *Object-Oriented Software Design Patterns*
 
 1. What is a design pattern?
 2. Maintainability and readability - why use design patterns
@@ -56,15 +57,15 @@ Section 5: Object-Oriented Software Design Patterns
 6. Hiding things from yourself
 7. "Fall-through" vs event-driven
 
-Section 6: Living with Python
+Section 6: *Living with Python*
 
+5. Version control systems
 1. Stupid Python Tricks (object poking/monkey patching)
 2. Handy modules from the standard library
 3. Getting new modules
 4. Writing your own modules
-5. Version control systems
 
-Section 7: Bad Programming
+Section 7: *Bad Programming*
 
 1. Anti-Patterns
 2. Pattern-itis
@@ -72,7 +73,7 @@ Section 7: Bad Programming
 4. Readability
 5. Re-inventing the wheel
 
-Section 8: Moving on
+Section 8: *Moving on*
 
 1. Dynamically typed vs. statically typed languages (perl vs. Java, C)
 2. Values, references, indirection
